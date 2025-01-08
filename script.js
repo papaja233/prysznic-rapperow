@@ -1,5 +1,3 @@
-const clientId = '7f141cf610c34e00af2330231995bd41';
-const clientSecret = '3d74735d416d44feb3c702f1093f47f9';
 
 const artistGrid = document.getElementById('artist-grid');
 const artistName = document.getElementById('artist-name');
