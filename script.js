@@ -1,3 +1,5 @@
+const clientId = '';
+const clientSecret = '';
 
 const artistGrid = document.getElementById('artist-grid');
 const artistName = document.getElementById('artist-name');
